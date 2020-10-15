@@ -1,7 +1,6 @@
 # Machine-Learning-Project
-This Repository consists of all my Machine Learning Project
+#### This Repository consists of all my Machine Learning Project
 
-# Machine Learning Projects
 ![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![NLTK](https://img.shields.io/badge/Library-sklearn-orange.svg)
 
 <img src="Readme_Files/Wallpaper.jpg" width="1920" height="300" >
